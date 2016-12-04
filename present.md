@@ -2,12 +2,6 @@
 % gavvy and jamiemramos
 % Decemeber 5, 2016
 
-<aside class="notes">
-THIS IS A NOTE.
-<\aside>
-
-
-
 # <img src="giphy.gif" alt="Book." style="100%; border-style:none; box-shadow:none; border:none; background:none;">
 <aside class="notes">
 THIS IS A NOTE.
