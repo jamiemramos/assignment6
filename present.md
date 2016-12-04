@@ -8,4 +8,10 @@ THIS IS A NOTE.
 
 # THIS IS TEXT. 
 
-# <img src= "giphy.gif" alt = "Book.">
+# <img src= "giphy.gif" alt = "Book." width="100%">
+
+# <img src= "amazon.png" alt = "Amazon" width="100%">
+
+# <img src= "google.png" alt = "Google" width="100%">
+
+# <img src= "facebook.png" alt = "Facebook" width="100%">
