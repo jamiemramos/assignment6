@@ -7,31 +7,23 @@ THIS IS A NOTE.
 <\aside>
 
 
-# <section data-background-image="giphy.gif" data-background-size="100%">
-   
-</section>
+
+# <img src="giphy.gif" alt="Book." style="100%">
 <aside class="notes">
 THIS IS A NOTE.
 <\aside>
 
-# <section data-background-image="ammazon.png" data-background-size="100%">
-   
-</section>
+# <img src="ammazon.png" alt="Amazon" style="100%">
 <aside class="notes">
 THIS IS A NOTE.
 <\aside>
 
-# <section data-background-image="google.png" data-background-size="100%">
-   
-</section>
+# <img src="google.png" alt="Google" style="100%">
 <aside class="notes">
 THIS IS A NOTE.
 <\aside>
 
-# <section data-background-image="facebook.png" data-background-size="100%">
-   
-</section>
+# <img src="facebook.png" alt="Facebook" style="100%">
 <aside class="notes">
 THIS IS A NOTE.
 <\aside>
-
