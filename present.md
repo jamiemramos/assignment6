@@ -172,6 +172,22 @@ THIS IS A NOTE.
 THIS IS A NOTE.
 <\aside>
 
+# Prepare yourself for a tech world.
+<aside class="notes">
+THIS IS A NOTE.
+<\aside>
+
+
+# <img src="innovation.gif" alt="Innovation" style="width:100%; border-style:none; box-shadow:none; border:none; background:none;">
+<aside class="notes">
+THIS IS A NOTE.
+<\aside>
+
+# <img src="hands.jpg" alt="Storytelling can't be replaced." style="width:100%; border-style:none; box-shadow:none; border:none; background:none;">
+<aside class="notes">
+THIS IS A NOTE.
+<\aside>
+
 
 
 
