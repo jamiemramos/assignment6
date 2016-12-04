@@ -6,12 +6,32 @@
 THIS IS A NOTE.
 <\aside>
 
-# THIS IS TEXT. 
 
-# <img src= "giphy.gif" alt = "Book." width="100%">
+# <section data-background-image="giphy.gif" data-background-size="100%">
+   
+</section>
+<aside class="notes">
+THIS IS A NOTE.
+<\aside>
 
-# <img src= "amazon.png" alt = "Amazon" width="100%">
+# <section data-background-image="ammazon.png" data-background-size="100%">
+   
+</section>
+<aside class="notes">
+THIS IS A NOTE.
+<\aside>
 
-# <img src= "google.png" alt = "Google" width="100%">
+# <section data-background-image="google.png" data-background-size="100%">
+   
+</section>
+<aside class="notes">
+THIS IS A NOTE.
+<\aside>
 
-# <img src= "facebook.png" alt = "Facebook" width="100%">
+# <section data-background-image="facebook.png" data-background-size="100%">
+   
+</section>
+<aside class="notes">
+THIS IS A NOTE.
+<\aside>
+
