@@ -51,6 +51,20 @@ body {
   text-transform: uppercase;
   text-shadow: none;
   word-wrap: break-word; }
+  
+  .reveal w1 {
+    color: white; 
+    font-size: 1.55em;
+  }
+  .reveal w2 {
+    color: white; 
+    font-size: 1.2em;
+  }
+  .reveal w3 {
+    color: white; 
+    font-size: 1.1m;
+  }
+  
 
 .reveal h1 {
   font-size: 3.77em; }
